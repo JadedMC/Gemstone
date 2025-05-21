@@ -1,0 +1,3 @@
+# Gemstone &middot; [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/JadedMC/Gemstone/blob/master/LICENSE)
+
+Gemstone is an upcoming World Management Plugin for Spigot/Paper Minecraft servers. It is designed for simplicity and scalability, allowing users to create, load, and modify worlds from across multiple servers in a seemless way. It will also include an extensive API for interacting with the worlds through other plugins.

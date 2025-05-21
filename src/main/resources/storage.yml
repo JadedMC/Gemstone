@@ -1,0 +1,18 @@
+storage:
+  # Changes how worlds are stored.
+  # Options:
+  #   LOCAL - Stores the worlds locally in the plugin folder.
+  #   MYSQL - Stores the worlds in a configured MySQL server.
+  #   MONGO - Stores the worlds in a MongoDB server.
+  type: LOCAL
+
+  mysql:
+    address: localhost
+    port: 3306
+    database: ""
+    username: ""
+    password: ""
+    useSSL: true
+
+  mongodb:
+    connection: ""

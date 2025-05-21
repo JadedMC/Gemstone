@@ -22,7 +22,7 @@
  *  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  *  SOFTWARE.
  */
-package net.jadedmc.gemstone.storage.types;
+package net.jadedmc.gemstone.worlds.storage.types;
 
 public class MySQLWorldStorage {
 }
