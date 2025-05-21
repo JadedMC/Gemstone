@@ -1,0 +1,4 @@
+name: Gemstone
+version: '1.0-SNAPSHOT'
+main: net.jadedmc.gemstone.GemstonePlugin
+api-version: '1.21'
